@@ -1,6 +1,6 @@
 This is a meeting tracking demo app powered by next.js 🚀
 
-## Getting Started
+## Getting Started with Node
 First, ensure you have a setup with [node version 10.13 or greater](nodejs.org)
 
 To get started developing locally
